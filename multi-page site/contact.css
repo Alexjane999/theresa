@@ -1,0 +1,10 @@
+*{
+    background-color: maroon;
+    font-size: 27px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900px;
+    text-align: left;
+    color: rgb(173, 173, 226);
+    border: darkgray;
+    border-radius: 30px;
+}
